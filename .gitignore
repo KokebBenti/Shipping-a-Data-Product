@@ -1,1 +1,4 @@
 teleg
+Data
+.env
+*.session
